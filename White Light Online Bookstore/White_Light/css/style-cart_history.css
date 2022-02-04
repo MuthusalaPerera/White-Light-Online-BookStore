@@ -1,0 +1,17 @@
+body{background-image: url("../images/P/book6.jpg");}
+
+#pfont{
+	font-size:50px;
+	font-stretch:expanded;
+	text-shadow: 2px 2px 5px SpringGreen;
+	  font-style: oblique;
+	  font-family: "Sofia"
+}
+#mfont{
+	font-size:40px;
+	font-stretch:expanded;
+	text-shadow: 2px 2px 5px yellow;
+	  font-style: oblique;
+	  
+}
+

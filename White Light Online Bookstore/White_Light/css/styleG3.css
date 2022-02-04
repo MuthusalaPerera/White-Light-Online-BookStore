@@ -1,0 +1,79 @@
+/*.contact {
+  
+  background-color: rgba(0,0,0, 0.4);
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: ;
+  top: 100%;
+  left: 50%;
+  right: 50%;
+  transform: translate(center);
+  z-index: 5;
+  width: 50%;
+  padding: 30px;
+   margin: 10px 230px;
+}*/
+
+body{
+  font-family: Arial;
+}
+
+.btn {
+  background-color:  #FE2E2E;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+  
+
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+#tot{
+   margin: 30px 320px;
+   top: 20px;
+  
+}
+
+.contact {
+ background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0, 0.4); 
+
+  top:10px;
+  margin: 30px 330px;
+  width: 500px;
+  padding: 50px;
+  background-color: #D0D3D4;
+  z-index: 5;
+   border: 3px solid #f1f1f1;
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+
+input{
+  background-color:#D0D3D4;
+ 
+ 
+;
+  
+  border: none;
+  background: #f1f1f1;
+}
+ 
+ body{
+background-image: url("../images/G/store.jpg");
+  background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment:;
+    position: relative;
+     background-size: 100% 80%;
+   }

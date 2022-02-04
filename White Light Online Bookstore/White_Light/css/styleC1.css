@@ -1,0 +1,18 @@
+body{
+	background-image:url("../images/C/signin.jfif");
+}
+.table{
+	margin:auto;
+	font-family:verdana;
+	color:white;	
+	width:40%;
+
+}
+.title{
+	text-align:center;
+	color:#b0eb47;
+	font-family:verdana;	
+}
+.logincolor{
+	color:#65f1ef;
+}

@@ -1,0 +1,40 @@
+containe {
+	position:relative;
+}
+
+.containe video {
+    position:auto;
+	z-index:0;
+}
+
+.conten{
+  font-family: "Lucida Console", Times, serif;
+  text-align: center;
+  position:absolute;
+  top:50px;
+  left:275px;
+  z-index:1;
+  bottom: 500;
+  background: rgba(0, 0, 0, 0.5s);
+  color: #f1f1f1;
+  width: 100;
+  padding: 175px;
+}
+.button1 {
+	top : 80%;
+  text-align: center;
+  background-color:darkred;
+  border: none;
+  color: white;
+  padding: 18px;
+  text-align: center;
+  text-decoration: none;`
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#size1{
+	font-size : 70px;
+}

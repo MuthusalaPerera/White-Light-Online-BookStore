@@ -1,0 +1,32 @@
+body { 
+	 background-image: linear-gradient(Gainsboro, LightSkyBlue, DodgerBlue);
+} 
+
+#tfont{
+	font-size:50px;
+	font-stretch:expanded;
+	text-shadow: 2px 2px 5px yellow;
+	font-style: obliquet;
+	text-align:center;
+	  
+}
+#tdfont{
+	font-size:30px;
+	font-stretch:expanded;
+	text-shadow: 2px 2px 5px green;
+	font-style: obliquet;
+	text-align:center;
+	  
+}
+
+.bt{
+	color:darkblue;
+	background-image: linear-gradient(Gainsboro, LightSkyBlue, DodgerBlue);
+	border-color:white;
+	border-radius: 5px;
+	 padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	font-size:20px;
+	}
